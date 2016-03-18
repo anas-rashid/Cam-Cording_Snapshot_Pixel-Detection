@@ -1,0 +1,27 @@
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\HCI Assignment 2.exe.config
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\HCI Assignment 2.exe
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\HCI Assignment 2.pdb
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.VFW.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Imaging.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Math.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.VFW.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Imaging.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\bin\Debug\AForge.Math.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\obj\Debug\HCI Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\obj\Debug\HCI_Assignment_2.GetFrame.resources
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\obj\Debug\HCI_Assignment_2.Properties.Resources.resources
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\obj\Debug\HCI Assignment 2.csproj.GenerateResource.Cache
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\obj\Debug\HCI Assignment 2.exe
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 2\obj\Debug\HCI Assignment 2.pdb

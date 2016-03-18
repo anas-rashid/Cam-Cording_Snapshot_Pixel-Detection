@@ -1,0 +1,27 @@
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\Part 3 - Movemet Detection.exe.config
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\Part 3 - Movemet Detection.exe
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\Part 3 - Movemet Detection.pdb
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\obj\Debug\Part_3___Movemet_Detection.Properties.Resources.resources
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\obj\Debug\Part 3 - Movemet Detection.csproj.GenerateResource.Cache
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\obj\Debug\Part 3 - Movemet Detection.exe
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\obj\Debug\Part 3 - Movemet Detection.pdb
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\obj\Debug\Part 3 - Movemet Detection.csprojResolveAssemblyReference.cache
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\obj\Debug\Part_3___Movemet_Detection.MovementDetection.resources
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.VFW.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Imaging.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Math.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.VFW.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Imaging.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\Part 3 - Movemet Detection\bin\Debug\AForge.Math.xml

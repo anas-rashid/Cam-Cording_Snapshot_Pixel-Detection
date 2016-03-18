@@ -1,0 +1,55 @@
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\HCI Assignment 1.exe.config
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\HCI Assignment 1.exe
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\HCI Assignment 1.pdb
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.VFW.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Imaging.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Math.dll
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.VFW.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Imaging.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\bin\Debug\AForge.Math.xml
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\obj\Debug\HCI_Assignment_1.RecordVideo.resources
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\obj\Debug\HCI_Assignment_1.Properties.Resources.resources
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\obj\Debug\Part 1 - Record a Video.csproj.GenerateResource.Cache
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\obj\Debug\HCI Assignment 1.exe
+C:\Users\AnnJanu\documents\visual studio 2013\Projects\HCI Assignment 1\HCI Assignment 1\obj\Debug\HCI Assignment 1.pdb
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\HCI Assignment 1.exe.config
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\HCI Assignment 1.exe
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\HCI Assignment 1.pdb
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.VFW.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Imaging.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Math.dll
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.VFW.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Imaging.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\AForge.Math.xml
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\obj\Debug\HCI_Assignment_1.RecordVideo.resources
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\obj\Debug\HCI_Assignment_1.Properties.Resources.resources
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\obj\Debug\Part 1 - Record a Video.csproj.GenerateResource.Cache
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\obj\Debug\HCI Assignment 1.exe
+C:\Users\AnnJanu\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\obj\Debug\HCI Assignment 1.pdb
+C:\Users\muham\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\bin\Debug\HCI Assignment 1.exe.config
+C:\Users\muham\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\obj\Debug\HCI Assignment 1.exe
+C:\Users\muham\Documents\Visual Studio 2013\Projects\HCI Assignment 1\Part 1 - Record Video\obj\Debug\HCI Assignment 1.pdb
